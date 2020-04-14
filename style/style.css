@@ -76,7 +76,7 @@
   padding-right: 1rem; }
   .pagination .page-link:hover {
     background-color: #da1757;
-    color: #fff;
+   color: #fff;
     border-color: #f42267; }
 
 .pagination .page-item.active .page-link {
@@ -405,7 +405,7 @@
 
 .letsgrow {
   background: url("../img/letsgrow-bg.png") center no-repeat;
-  background-position: cover;
+  background-size: cover;
   color: #fff; }
   .letsgrow .btn {
     height: 60px;
